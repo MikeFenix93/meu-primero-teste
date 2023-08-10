@@ -1,0 +1,16 @@
+{
+  "name": "meu-primeiro-test-cypres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
